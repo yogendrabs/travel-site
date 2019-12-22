@@ -18,7 +18,8 @@
   "homepage": "https://github.com/yogendrabs/travel-site#readme",
   "dependencies": {
     "jquery": "^3.4.1",
-    "normalize.css": "^7.0.0"
+    "normalize.css": "^7.0.0",
+    "waypoints": "^4.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
