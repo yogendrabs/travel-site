@@ -20,7 +20,7 @@
     "gulp-svg2png-node7fix": "^1.0.4",
     "gulp-svg2png-update": "^2.2.1",
     "gulp-util": "^3.0.8",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-smooth-scroll": "^2.2.0",
     "lazysizes": "^5.2.0",
     "normalize.css": "^7.0.0",
